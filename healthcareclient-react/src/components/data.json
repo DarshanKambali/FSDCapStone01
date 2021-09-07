@@ -1,0 +1,32 @@
+{
+  "productData": [
+    {
+      "id": 1,
+      "img": "https://cdn01.pharmeasy.in/dam/products_otc/270863/crocin-650mg-fast-release-tablet-15s-2-1619164015.jpg",
+      "title": "Crocin Tablet",
+      "desc": "",
+      "price": 14
+    },
+    {
+      "id": 2,
+      "img": "https://newassets.apollo247.com/pub/media/catalog/product/c/y/cyc0016.jpg",
+      "title": "Cyclopam Tablet",
+      "desc": "",
+      "price": 30
+    },
+    {
+      "id": 3,
+      "img": "https://5.imimg.com/data5/IT/KT/RR/SELLER-83107327/xalatan-eye-drop-500x500.jpg",
+      "title": "Xalatan Eyedrops",
+      "desc": "",
+      "price": 596
+    },
+    {
+      "id": 4,
+      "img": "https://www.netmeds.com/images/product-v1/600x600/49792/dorzox_t_eye_drops_5ml_0.jpg",
+      "title": "Dorzox T Eyedrops",
+      "desc": "",
+      "price": 230
+    }
+  ]
+}
